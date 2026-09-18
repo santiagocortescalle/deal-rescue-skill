@@ -1,0 +1,7 @@
+interface:
+  display_name: "Deal Rescue"
+  short_description: "Decide y redacta seguimientos comerciales B2B"
+  icon_small: "./assets/composer-icon.png"
+  icon_large: "./assets/logo.png"
+  brand_color: "#FFD600"
+  default_prompt: "Analiza esta oportunidad y dime si conviene hacer seguimiento ahora y qué mensaje enviaría."
